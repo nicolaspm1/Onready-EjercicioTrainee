@@ -1,0 +1,2 @@
+# Onready-EjercicioTrainee
+Resolución ejercicio
